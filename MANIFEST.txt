@@ -1,0 +1,2 @@
+id	filename	md5	size	state
+7ede6f6e-2819-40a4-addf-59247afbaa97	7ede6f6e-2819-40a4-addf-59247afbaa97/jhu-usc.edu_BRCA.HumanMethylation27.1.lvl-3.TCGA-A8-A079-01A-21D-A00Y-05.gdc_hg38.txt	1cb4b9dccb857f6c9daaa9e102d371ee	9949739	live
